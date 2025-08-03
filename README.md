@@ -10,7 +10,7 @@
 ### 👩‍💻 About Me
 - 🌱 Currently learning: `AI`, `Machine Learning`, and `Cloud (GCP + AWS)`
 - 🔭 Working on: **Smart Book Borrowing System** 📚
-- 🧩 Practicing DSA on [LeetCode](https://leetcode.com/nidhiii128)
+- 🧩 Practicing DSA on [LeetCode](https://leetcode.com/u/NidhiBhawari/)
 - 🛠️ Tech Stack: `React`, `Node.js`, `MongoDB`, `Express`, `Firebase`
 - 📫 Reach me: **nidhibhawari28@gmail.com**
 
@@ -45,9 +45,9 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="mailto:nidhiii128@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://leetcode.com/nidhiii128"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:nidhibhawari28@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/NidhiBhawari/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.linkedin.com/in/nidhi-bhawari/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
