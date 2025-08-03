@@ -1,35 +1,57 @@
-<h1 align="center">Hi 👋, I'm Nidhi</h1>
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
+<h1 align="center">Hi there 👋, I'm Nidhi</h1>
+<h3 align="center">🚀 Aspiring Full-Stack Developer | 📚 Computer Engineering Student | 💡 Tech Explorer</h3>
 
-- 🔭 I’m currently working on **Smart Book Borrowing System**
-
-- 🌱 I’m currently learning **AI, Machine Learning, and Cloud (GCP & AWS)**
-
-- 👨‍💻 All of my projects are available at [My Portfolio](#) <!-- you can add your link -->
-
-- 📫 How to reach me **Nidhibhawari28@gmail.com**
-
----
-
-### 🛠️ Languages and Tools:
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F76E6E&center=true&vCenter=true&width=435&lines=I+love+building+useful+apps+🚀;Coding+%7C+Cloud+%7C+AI+%7C+DevOps+💻;MERN+Stack+%2B+GCP+%3D+❤️;" />
 </p>
 
 ---
 
-### 📈 GitHub Stats:
-![Nidhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+### 👩‍💻 About Me
+- 🌱 Currently learning: `AI`, `Machine Learning`, and `Cloud (GCP + AWS)`
+- 🔭 Working on: **Smart Book Borrowing System** 📚
+- 🧩 Practicing DSA on [LeetCode](https://leetcode.com/nidhiii128)
+- 🛠️ Tech Stack: `React`, `Node.js`, `MongoDB`, `Express`, `Firebase`
+- 📫 Reach me: **nidhibhawari28@gmail.com**
 
 ---
 
-### 🔗 Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/nidhi-bhawari/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/NidhiBhawari/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="30" width="40" /></a>
-<a href="mailto:Nidhibhawari28@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="email" height="30" width="40" /></a>
+### 🔧 Technologies & Tools
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nidhiii128&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhiii128&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nidhiii128&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"/>
+</p>
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="mailto:nidhiii128@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/nidhiii128"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=nidhiii128&theme=tokyo-night" alt="activity graph"/>
 </p>
