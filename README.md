@@ -1,9 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Nidhi</h1>
-<h3 align="center">🚀 Aspiring Full-Stack Developer | 📚 Computer Engineering Student | 💡 Tech Explorer</h3>
+<h3 align="center">Computer Engineering Student | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F76E6E&center=true&vCenter=true&width=435&lines=I+love+building+useful+apps+🚀;Coding+%7C+Cloud+%7C+AI+%7C+DevOps+💻;MERN+Stack+%2B+GCP+%3D+❤️;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&lines=Passionate+about+Coding+💻;Data+Structures+%26+Algorithms+⚡;Cloud+%26+DevOps+☁️;AI+%7C+ML+%7C+DL+🤖;Building+Smart+Solutions+🚀" />
 </p>
+
 
 ---
 
@@ -33,13 +34,14 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nidhiii128&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhiii128&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nidhiii128&show_icons=true&theme=transparent&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhiii128&layout=compact&theme=transparent&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nidhiii128&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nidhiii128&theme=transparent&hide_border=true" height="150"/>
 </p>
+
 
 ---
 
@@ -51,7 +53,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=nidhiii128&theme=tokyo-night" alt="activity graph"/>
-</p>
