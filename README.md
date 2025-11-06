@@ -33,9 +33,6 @@ When I’m not coding, I enjoy reading about human psychology 🧠 and how it co
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhiii128&layout=compact&theme=radical&hide_border=true" height="150"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nidhiii128&theme=radical&hide_border=true" height="150"/>
-</p>
 
 ---
 
