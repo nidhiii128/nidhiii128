@@ -1,6 +1,6 @@
 <h1 align="center"> Hey there, I'm <span style="color:#9b5de5;">Nidhi</span> </h1>
 <h3 align="center"> Computer Engineering Student | Innovator | Tech Explorer</h3>
----
+
 ## About Me  
  A Computer Engineering student passionate about solving problems and creating tech that makes a difference.  
 I love exploring new technologies from AI & ML to Cloud Computing — and applying them to build meaningful projects.
