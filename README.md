@@ -26,30 +26,6 @@ When I’m not coding, I enjoy reading about human psychology 🧠 and how it co
 
 ---
 
-## GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nidhiii128&show_icons=true&theme=radical&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhiii128&layout=compact&theme=radical&hide_border=true" height="150"/>
-</p>
-
-
----
-
-## GitHub Achievements & Awards
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nidhiii128&theme=radical&no-frame=true&margin-w=10&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nidhiii128&label=Profile%20Views&color=9b5de5&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/nidhiii128?label=Followers&logo=github&style=for-the-badge&color=9b5de5" />
-  <img src="https://img.shields.io/github/stars/nidhiii128?affiliations=OWNER&style=for-the-badge&color=9b5de5" />
-</p>
-
----
-
 ## Contribution Graph  
 
 <p align="center">
