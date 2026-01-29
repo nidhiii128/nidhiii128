@@ -26,11 +26,13 @@ When I’m not coding, I enjoy reading about human psychology 🧠 and how it co
 
 ---
 
-## Contribution Graph  
+## GitHub Overview
+![Stats](https://github-readme-stats.vercel.app/api?username=nidhiii128&show_icons=true)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nidhiii128&theme=react-dark&hide_border=true&area=true" />
-</p>
+## 🔥 Open Source PRs
+- Merged PRs across multiple repositories
+- Focus on backend, auth, and cloud projects
+
 
 
 ## Let's Connect  
