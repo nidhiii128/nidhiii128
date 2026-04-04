@@ -1,41 +1,50 @@
 <h1 align="center"> Hey there, I'm <span style="color:#9b5de5;">Nidhi</span> </h1>
-<h3 align="center"> Computer Engineering Student | Innovator | Tech Explorer</h3>
+<h3 align="center"> Computer Engineering Student | Open Source Contributor | Backend Enthusiast </h3>
 
 ## About Me  
- A Computer Engineering student passionate about solving problems and creating tech that makes a difference.  
-I love exploring new technologies from AI & ML to Cloud Computing — and applying them to build meaningful projects.
+- 🎓 Third‑year Computer Engineering student at Vidyalankar Institute of Technology (Mumbai)  
+- 💻 Java is my primary language – I love building clean, maintainable backend systems  
+- 🚀 **Hacktober 2025 Super Contributor** – merged 6+ pull requests across multiple open source repositories, focusing on error handling, system resilience, and documentation  
+- 🔧 Currently working on a **distributed API tracking system** – designing a scalable solution to monitor and trace API calls across microservices  
+- 🧠 Exploring distributed systems, type‑safe APIs, and modern observability patterns  
 
--  Learning: `Machine Learning`, `AI`, `Cloud (GCP + AWS)`  
--  Exploring: `System Design`, `DevOps`, and `Open Source`  
--  Sharpening my DSA skills on [LeetCode](https://leetcode.com/u/NidhiBhawari/)  
--  Reach Me: **nidhibhawari28@gmail.com**
+📫 Reach me: **nidhibhawari28@gmail.com**  
 
 ---
-## Tech Stack
+
+## 🚀 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,java,cpp,javascript,html,css,firebase,git,github,aws,gcp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,gradle,postgres,docker,git,github,angular,react,nodejs,python,javascript,html,css&theme=dark" />
 </p>
 
----
-
-## What I Believe In  
-> “Technology should not just exist it should empower.”  
-I love blending **creativity with logic** to craft digital experiences that are both **efficient** and **impactful**.  
-When I’m not coding, I enjoy reading about human psychology 🧠 and how it connects with tech innovation.
+**Primary:** Java, Spring Boot, Spring MVC, JUnit, Gradle  
+**Databases:** PostgreSQL, MySQL  
+**DevOps:** Docker, GitHub Actions, Testcontainers  
+**Frontend:** Angular, React (basic)  
 
 ---
 
-## GitHub Overview
-![Stats](https://github-readme-stats.vercel.app/api?username=nidhiii128&show_icons=true)
+## 🔥 Open Source Highlights
 
-## 🔥 Open Source PRs
-- Merged PRs across multiple repositories
-- Focus on backend, auth, and cloud projects
+- **Hacktober 2025 – Super Contributor**  
+  - 6+ pull requests merged across various projects  
+  - Strengthened error handling and system resilience  
+  - Enhanced navigation and user experience  
+  - Improved documentation for better onboarding  
 
+- **Active open source contributor** – backend, testing, and infrastructure improvements  
 
+---
 
-## Let's Connect  
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=nidhiii128&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhiii128&layout=compact&theme=radical)
+
+---
+
+## 🔗 Let's Connect  
 
 <p align="center">
   <a href="mailto:nidhibhawari28@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -46,9 +55,4 @@ When I’m not coding, I enjoy reading about human psychology 🧠 and how it co
 
 ---
 
-### Fun Fact  
-💬 I believe every line of code has a story — mine usually starts with *“what if I could build this…”* 🌍  
-
----
-
-⭐ *If you like my work, don’t forget to star my repositories!*  
+⭐ *Every line of code has a story — mine usually starts with "what if I could build this…"* 🌍  
