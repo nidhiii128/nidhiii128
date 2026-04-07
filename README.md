@@ -52,6 +52,3 @@
   <a href="https://porfolio-gules-seven.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-9b5de5?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
----
-
-⭐ *Every line of code has a story — mine usually starts with "what if I could build this…"* 🌍  
