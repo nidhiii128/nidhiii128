@@ -2,13 +2,13 @@
 <h3 align="center"> Computer Engineering Student | Open Source Contributor | Backend Enthusiast </h3>
 
 ## About Me  
-- 🎓 Third‑year Computer Engineering student at Vidyalankar Institute of Technology (Mumbai)  
-- 💻 Java is my primary language – I love building clean, maintainable backend systems  
-- 🚀 **Hacktober 2025 Super Contributor** – merged 6+ pull requests across multiple open source repositories, focusing on error handling, system resilience, and documentation  
+- Third‑year Computer Engineering student at Vidyalankar Institute of Technology (Mumbai)  
+- Java is my primary language – I love building clean, maintainable backend systems  
+- **Hacktober 2025 Super Contributor** – merged 6+ pull requests across multiple open source repositories, focusing on error handling, system resilience, and documentation  
 - 🔧 Currently working on a **distributed API tracking system** – designing a scalable solution to monitor and trace API calls across microservices  
-- 🧠 Exploring distributed systems, type‑safe APIs, and modern observability patterns  
+-  Exploring distributed systems, type‑safe APIs, and modern observability patterns  
 
-📫 Reach me: **nidhibhawari28@gmail.com**  
+ Reach me: **nidhibhawari28@gmail.com**  
 
 ---
 
